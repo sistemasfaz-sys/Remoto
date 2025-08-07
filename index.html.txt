@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rastreo Satelital | Global Track | México | Monterrey</title>
+    <meta name="description" content="Global Track: Servicio de monitoreo GPS para el rastreo satelital de Camiones✔Autos✔Personal✔Sistemas de videovigilancia✔Análisis de rutas✔ Cobertura en todo México✔">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="nav-wrapper">
+                <!-- Logo -->
+                <div class="logo">
+                    <img src="https://ext.same-assets.com/3341328982/979906692.png" alt="Global Track Logo" class="logo-img">
+                </div>
+
+                <!-- Desktop Navigation -->
+                <nav class="nav-desktop">
+                    <a href="#" class="nav-link">Global Track</a>
+                    <a href="#" class="nav-link">Nosotros</a>
+                    <a href="#" class="nav-link">Sphere GT</a>
+                    <a href="#" class="nav-link">Servicios</a>
+                    <a href="#" class="nav-link">Especializados</a>
+                    <a href="#" class="nav-link">Gobierno</a>
+                    <a href="#" class="nav-link">Contacto</a>
+                </nav>
+
+                <!-- Desktop Login Button -->
+                <div class="login-desktop">
+                    <a href="#" class="btn-login">Iniciar Sesión</a>
+                </div>
+
+                <!-- Mobile menu button -->
+                <div class="mobile-menu-btn">
+                    <button id="hamburger" class="hamburger" aria-label="Toggle mobile menu">
+                        <span class="hamburger-line"></span>
+                        <span class="hamburger-line"></span>
+                        <span class="hamburger-line"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Navigation Menu -->
+        <div id="mobile-menu" class="mobile-menu">
+            <div class="mobile-menu-content">
+                <a href="#" class="mobile-nav-link">Global Track</a>
+                <a href="#" class="mobile-nav-link">Nosotros</a>
+                <a href="#" class="mobile-nav-link">Sphere GT</a>
+                <a href="#" class="mobile-nav-link">Servicios</a>
+                <a href="#" class="mobile-nav-link">Especializados</a>
+                <a href="#" class="mobile-nav-link">Gobierno</a>
+                <a href="#" class="mobile-nav-link">Contacto</a>
+                <div class="mobile-login">
+                    <a href="#" class="btn-login">Iniciar Sesión</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-bg">
+            <img src="https://ext.same-assets.com/3341328982/613654952.jpeg" alt="Truck on highway" class="hero-image">
+            <div class="hero-overlay"></div>
+        </div>
+        
+        <div class="hero-content">
+            <div class="container">
+                <div class="hero-text">
+                    <h1 class="hero-title">Tecnología Satelital</h1>
+                    <p class="hero-subtitle">Hábitos de Conducción - Detección de fatiga - Sensor de Proximidad</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Carousel Indicators -->
+        <div class="carousel-indicators">
+            <div class="indicator active"></div>
+            <div class="indicator"></div>
+            <div class="indicator"></div>
+            <div class="indicator"></div>
+            <div class="indicator"></div>
+            <div class="indicator"></div>
+            <div class="indicator"></div>
+            <div class="indicator"></div>
+            <div class="indicator"></div>
+        </div>
+    </section>
+
+    <!-- Main Content - Company Description -->
+    <section class="company-description">
+        <div class="container">
+            <div class="text-center animate-section" data-animation="fade-slide-up">
+                <h2 class="section-title blue">Somos la empresa de</h2>
+                <h3 class="section-title-sub">Servicios <span class="highlight">GPS</span> más eficaz de México</h3>
+            </div>
+        </div>
+    </section>
+
+    <!-- Feature Sections -->
+    <section class="feature-sections">
+        <!-- Section 1 - Black -->
+        <div class="feature-section bg-dark animate-section" data-animation="fade-slide-up" data-delay="100">
+            <h4 class="feature-title">Obtén detalles de los recorridos</h4>
+            <ul class="feature-list">
+                <li class="feature-item">
+                    <span class="bullet">•</span>
+                    Seguimiento a rutas y distribución.
+                </li>
+                <li class="feature-item">
+                    <span class="bullet">•</span>
+                    Cálculo de tiempos de entrega.
+                </li>
+                <li class="feature-item">
+                    <span class="bullet">•</span>
+                    Videovigilancia de las unidades.
+                </li>
+                <li class="feature-item">
+                    <span class="bullet">•</span>
+                    Verificación de dispositivos de seguridad.
+                </li>
+            </ul>
+        </div>
+
+        <!-- Section 2 - Gray -->
+        <div class="feature-section bg-gray animate-section" data-animation="fade-slide-up" data-delay="200">
+            <h4 class="feature-title">Da seguimiento a tu mercancía, colaboradores y familiares</h4>
+            <p class="feature-text">
+                Así como realizamos la localización de rutas de mercancía a través de sistemas localizadores GPS,
+                también lo hacemos del transporte de personal y te decimos el camino por donde va tu familia.
+                Sabemos que es importante para ti su seguridad y nos tomamos muy en serio sus traslados.
+            </p>
+        </div>
+
+        <!-- Section 3 - Blue -->
+        <div class="feature-section bg-blue animate-section" data-animation="fade-slide-up" data-delay="300">
+            <h4 class="feature-title">Somos la empresa GPS más eficaz de México</h4>
+            <p class="feature-text">
+                Desde hace más de 20 años en Global Track trabajamos para crear servicios ideales para
+                cubrir tus necesidades de GPS. Renovamos nuestra plataforma, software y dispositivos a la
+                par del avance tecnológico para entregarte la más alta fidelidad en los datos año con año.
+            </p>
+        </div>
+
+        <!-- Section 4 - Teal -->
+        <div class="feature-section bg-teal animate-section" data-animation="fade-slide-up" data-delay="400">
+            <h4 class="feature-title">Tenemos las mejores soluciones de seguridad para tus unidades</h4>
+            <p class="feature-text">
+                Te facilitamos las cerraduras y los sensores de desenganche más efectivos para que tengas la
+                tranquilidad de que el transporte de carga de tu compañía o de tu cliente avanza sin inconvenientes.
+            </p>
+        </div>
+
+        <!-- Section 5 - Black -->
+        <div class="feature-section bg-dark animate-section" data-animation="fade-slide-up" data-delay="500">
+            <h4 class="feature-title">Solventamos tus necesidades de análisis de recorridos, distribución y más</h4>
+            <p class="feature-text">
+                Contamos con cobertura en todo el país, desde la Ciudad de México, hasta Aguascalientes,
+                Monterrey o Mérida. A donde quiera que vayan tus vehículos, estaremos con ellos. En Global Track
+                tenemos la experiencia y queremos ganar tu confianza, búscanos para saber cómo podemos contribuir en tu operación.
+            </p>
+        </div>
+    </section>
+
+    <!-- Bottom Section -->
+    <section class="bottom-section">
+        <div class="container">
+            <div class="text-center animate-section" data-animation="fade-slide-up">
+                <h2 class="section-title blue">
+                    Solventamos tus necesidades de análisis de recorridos, distribución y más
+                </h2>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-text">
+                    © 2021 Global Track / Creada por www.kjpublicidad.com
+                </div>
+                
+                <!-- Social Media Icons -->
+                <div class="social-links">
+                    <a href="#" class="social-link" aria-label="LinkedIn">
+                        <img src="https://ext.same-assets.com/3341328982/3504062369.png" alt="LinkedIn" class="social-icon">
+                    </a>
+                    <a href="#" class="social-link" aria-label="Twitter">
+                        <img src="https://ext.same-assets.com/3341328982/1976532401.png" alt="Twitter" class="social-icon">
+                    </a>
+                    <a href="#" class="social-link" aria-label="Facebook">
+                        <img src="https://ext.same-assets.com/3341328982/2474634658.png" alt="Facebook" class="social-icon">
+                    </a>
+                    <a href="#" class="social-link" aria-label="Instagram">
+                        <img src="https://ext.same-assets.com/3341328982/2897053705.png" alt="Instagram" class="social-icon">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
